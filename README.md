@@ -1,19 +1,19 @@
 # Aplikasi Inventaris Kendaraan BMD
 
 ### Halaman Login
-![Login](screenshots/login.png)
+![Login](./screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Data Kendaraan
-![Data Kendaraan](screenshots/menu_inventaris_(KDO).png)
+![Data Kendaraan](./screenshots/menu_inventaris_(KDO).png)
 
 ### Menu Master Perangkat Daerah
-![Data Perangkat](screenshots/menu_master_data_perangkat_daerah_(PD))
+![Data Perangkat](./screenshots/menu_master_data_perangkat_daerah_(PD))
 
 ### Menu Master PNS
-![Data Perangkat](screenshots/menu_master_data_pegawai_(PNS))
+![Data Perangkat](./screenshots/menu_master_data_pegawai_(PNS))
 
 # Pembuatan agents.MD
 Membuat MD menggunakan jenis AI Model	GPT-6, Platform	ChatGPT dari OpenAI
