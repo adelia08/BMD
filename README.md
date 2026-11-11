@@ -1,19 +1,21 @@
 # Aplikasi Inventaris Kendaraan BMD
 
+## Screenshot Aplikasi
+
 ### Halaman Login
-![Login](./screenshots/login.png)
+[![Login](https://github.com/adelia08/BMD/blob/master/inventaris-kendaraan/docs/login.png)
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+[![Dashboard](https://github.com/adelia08/BMD/blob/master/inventaris-kendaraan/docs/dashboard.png)
 
 ### Data Kendaraan
-![Data Kendaraan](./screenshots/menu_inventaris_(KDO).png)
+[![Data Kendaraan](https://github.com/adelia08/BMD/blob/master/inventaris-kendaraan/docs/menu_inventaris_%28KDO%29.png)
 
 ### Menu Master Perangkat Daerah
-![Data Perangkat](./screenshots/menu_master_data_perangkat_daerah_(PD))
+[![Master Perangkat Daerah](https://github.com/adelia08/BMD/blob/master/inventaris-kendaraan/docs/menu_master_data_perangkat_daerah_%28PD%29.png)
 
 ### Menu Master PNS
-![Data Perangkat](./screenshots/menu_master_data_pegawai_(PNS))
+[![Master PNS](https://github.com/adelia08/BMD/blob/master/inventaris-kendaraan/docs/menu_master_data_pegawai_%28PNS%29.png)
 
 # Pembuatan agents.MD
 Membuat MD menggunakan jenis AI Model	GPT-6, Platform	ChatGPT dari OpenAI
